@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Large files
+*.zip
+*.csv
+*.data
+*.pickle
+*.pkl
+*.h5
+*.model
+*.pt
+
+# System files
+.DS_Store
