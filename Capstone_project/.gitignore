@@ -1,13 +1,10 @@
 # Virtual environments
-capstone_env/
-venv/
-env/
+Breast_cancer_capstone_project/capstone_env/
 
 # Python cache
 __pycache__/
 *.py[cod]
 
-# System/IDE files
-.DS_Store
-.idea/
-.vscode
+# Large files
+*.dylib
+*.so
